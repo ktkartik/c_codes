@@ -1,4 +1,4 @@
-C Programming — From Basics to Advanced
+<b>C Programming — From Basics to Advanced</b>
 
 This repository contains my personal collection of C programs ranging from basic concepts to advanced problem-solving.
 The aim of this repository is to practice, explore, and master C programming with well-structured and documented code examples.

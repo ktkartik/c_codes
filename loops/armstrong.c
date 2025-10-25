@@ -36,11 +36,7 @@ int main(){
         //cheak armstrong
         if(sum ==original){
             printf("%d  \n",original);
-        }
-        
-
-        
-        
+        }  
     }
     return 0;
 }

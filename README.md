@@ -1,34 +1,45 @@
-<b>C Programming — From Basics to Advanced</b>
 
-This repository contains my personal collection of C programs ranging from basic concepts to advanced problem-solving.
-The aim of this repository is to practice, explore, and master C programming with well-structured and documented code examples.
+# 💻 C Programming Collection
 
-==>What this repository includes:
+🚀 A collection of beginner to advanced C programs for learning, logic building, and interview preparation.
 
-1.Basic syntax and input/output programs
+# 🧠 About This Repository
 
-2.Conditional statements and loops
+This repository is a complete collection of C language programs created by Kartik Tiwari.
+It includes a wide range of programs — from basic syntax and control structures to advanced topics like data structures and file handling.
 
-3.Functions and recursion
+Whether you're a beginner learning C or preparing for college exams and interviews, this repository will help you strengthen your logic and coding skills.
 
-4.Arrays, strings, and pointers
+# 🗂️ Contents
 
-5.Structures, unions, and enums
+Here’s what you’ll find in this repository:
 
-6.File handling in C
+# 🔹 Basics
 
-7.Mathematics & logic-based problems
+Input / Output programs
 
-8.Mini-projects and advanced programs
+Operators and Expressions
 
-==>About this repository:
+Conditional Statements (if-else, switch)
 
-All codes are written in standard ANSI C
+Loops (for, while, do-while)
 
-1.Beginner-friendly and logically structured
+# 🔹 Intermediate
 
-2.Continuously updated with new programs
+Arrays and Strings
 
-3.Useful for beginners, students, and revision purpose
+Functions and Recursion
 
-Feel free to explore, learn, and contribute!
+Pointers and Memory Handling
+
+# 🔹 Advanced
+
+Structures and Unions
+
+File Handling
+
+Dynamic Memory Allocation
+
+Data Structures (Stack, Queue, Linked List, etc.)
+
+
